@@ -1,1 +1,1 @@
-# Sistema-de-gest-o-jur-dica
+Sistema de gestão Jurídica
